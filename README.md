@@ -1,2 +1,8 @@
-# getstartedwithdotnet
-帮助新手上手.NET的相关材料
+# C#基础
+
+
+
+# 算法
+
+https://github.com/TheAlgorithms/C-Sharp
+
