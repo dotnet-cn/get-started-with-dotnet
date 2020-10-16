@@ -10,3 +10,6 @@ https://github.com/jackzhenguo/leetcode-csharp
 
 ## 小游戏
 https://github.com/ZacharyPatten/dotnet-console-games
+
+## 容器技术
+https://github.com/Lybecker/k8s-friendly-aspnetcore
