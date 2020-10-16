@@ -13,3 +13,8 @@ https://github.com/ZacharyPatten/dotnet-console-games
 
 ## 容器技术
 https://github.com/Lybecker/k8s-friendly-aspnetcore
+
+
+## 程序游乐场 Playground
+https://dotnetfiddle.net/srx9kM
+
