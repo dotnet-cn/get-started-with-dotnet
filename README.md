@@ -18,3 +18,5 @@ https://github.com/Lybecker/k8s-friendly-aspnetcore
 ## 程序游乐场 Playground
 https://dotnetfiddle.net/srx9kM
 
+## ASP.NET Core开发人员应该学习些什么
+https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
