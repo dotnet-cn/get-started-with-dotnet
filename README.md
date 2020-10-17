@@ -1,4 +1,5 @@
 # C#基础
+https://aka.ms/LearnC (微软官方C#教程)
 
 https://docs.microsoft.com/en-us/dotnet/standard/get-started
 
