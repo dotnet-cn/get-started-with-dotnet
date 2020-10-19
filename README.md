@@ -7,6 +7,8 @@ https://docs.microsoft.com/en-us/dotnet/standard/get-started
 
 https://github.com/TheAlgorithms/C-Sharp
 
+https://github.com/ComponentFactory/StructsAndAlgos/
+
 https://github.com/jackzhenguo/leetcode-csharp
 
 ## 小游戏
