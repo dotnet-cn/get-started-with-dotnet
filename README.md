@@ -16,6 +16,7 @@ https://github.com/ZacharyPatten/dotnet-console-games
 
 ## 容器技术
 https://github.com/Lybecker/k8s-friendly-aspnetcore
+https://github.com/asc-lab/dotnetcore-microservices-poc
 
 ## 项目模板
 https://github.com/Dotnet-Boxed/Templates
