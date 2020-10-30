@@ -1,9 +1,9 @@
 # C#基础
-https://aka.ms/LearnC (微软官方C#教程)
+[使用 C# 第一步](https://aka.ms/LearnC)
 
-https://docs.microsoft.com/en-us/dotnet/standard/get-started
+[Tutorials for getting started with .NET](https://docs.microsoft.com/en-us/dotnet/standard/get-started)
 
-https://aka.ms/docNETWeb
+[使用 ASP.NET Core 创建 Web API](https://aka.ms/docNETWeb)
 
 # 算法
 https://github.com/TheAlgorithms/C-Sharp
