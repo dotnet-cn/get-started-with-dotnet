@@ -16,6 +16,8 @@ https://github.com/jackzhenguo/leetcode-csharp
 
 https://github.com/docker/getting-started
 
+https://github.com/Lybecker/k8s-friendly-aspnetcore
+
 # ASP.NET/ASP.NET Core
 [杨旭老师的ASP.NET 3.1 Core入门](https://www.bilibili.com/video/av65313713/)
 
@@ -23,9 +25,6 @@ https://github.com/docker/getting-started
 
 ## 小游戏
 https://github.com/ZacharyPatten/dotnet-console-games
-
-## 容器技术
-https://github.com/Lybecker/k8s-friendly-aspnetcore
 
 ## 项目模板
 https://github.com/Dotnet-Boxed/Templates
