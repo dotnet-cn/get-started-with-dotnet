@@ -3,6 +3,8 @@ https://aka.ms/LearnC (微软官方C#教程)
 
 https://docs.microsoft.com/en-us/dotnet/standard/get-started
 
+https://aka.ms/docNETWeb
+
 # 算法
 https://github.com/TheAlgorithms/C-Sharp
 
