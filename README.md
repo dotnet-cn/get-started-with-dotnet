@@ -18,7 +18,7 @@ https://github.com/docker/getting-started
 
 https://github.com/Lybecker/k8s-friendly-aspnetcore
 
-# ASP.NET/ASP.NET Core
+# Web技术 - ASP.NET
 [杨旭老师的ASP.NET 3.1 Core入门](https://www.bilibili.com/video/av65313713/)
 
 [ASP.NET Core开发人员应该学习些什么](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
