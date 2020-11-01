@@ -5,12 +5,14 @@
 
 [使用 ASP.NET Core 创建 Web API](https://aka.ms/docNETWeb)
 
-# 算法
+# 设计模式与算法
 https://github.com/TheAlgorithms/C-Sharp
 
 https://github.com/ComponentFactory/StructsAndAlgos/
 
 https://github.com/jackzhenguo/leetcode-csharp
+
+[.NET设计模式](https://github.com/xuzeyu91/.Net-DesignPattern)
 
 # 容器技术
 
