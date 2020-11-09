@@ -16,6 +16,8 @@ https://github.com/jackzhenguo/leetcode-csharp
 
 # 容器技术
 
+[Linux 容器是什么？Linux Container 简介](https://www.redhat.com/zh/topics/containers/whats-a-linux-container)
+
 https://github.com/docker/getting-started
 
 https://github.com/Lybecker/k8s-friendly-aspnetcore
