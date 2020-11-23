@@ -37,8 +37,9 @@ https://github.com/Dotnet-Boxed/Templates
 
 https://github.com/asc-lab/dotnetcore-microservices-poc
 
-WPF练手项目  
-https://github.com/Accelerider/Accelerider.Windows
+##  
+
 
 ## 程序游乐场 Playground
 https://dotnetfiddle.net/srx9kM
+[WPF练手项目](https://github.com/Accelerider/Accelerider.Windows)
