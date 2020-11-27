@@ -29,6 +29,8 @@ https://github.com/Lybecker/k8s-friendly-aspnetcore
 
 [ASP.NET Core开发人员应该学习些什么](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
+[学习使用Blazor](https://aka.ms/LearnBlazor)
+
 ## 小游戏
 https://github.com/ZacharyPatten/dotnet-console-games
 
