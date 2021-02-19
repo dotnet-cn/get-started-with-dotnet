@@ -31,7 +31,7 @@ https://github.com/Lybecker/k8s-friendly-aspnetcore
 
 [学习使用Blazor](https://aka.ms/LearnBlazor)
 
-[.NET架构书籍](https://github.com/dotnet-architecture/eBooks/tree/master/current/)
+[微软官方提供的.NET架构书籍](https://github.com/dotnet-architecture/eBooks/tree/master/current/)
 
 ## 小游戏 Little Games
 https://github.com/ZacharyPatten/dotnet-console-games
