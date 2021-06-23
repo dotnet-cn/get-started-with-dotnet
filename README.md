@@ -5,6 +5,10 @@
 
 [使用 ASP.NET Core 创建 Web API](https://aka.ms/docNETWeb)
 
+# ORM入门
+
+[Dotnet ORM入门教程](https://grauenwolf.github.io/DotNet-ORM-Cookbook)
+
 # 设计模式与算法 Design Pattern & Algorithm
 https://github.com/TheAlgorithms/C-Sharp
 
