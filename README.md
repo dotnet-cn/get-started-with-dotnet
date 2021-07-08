@@ -32,6 +32,9 @@ https://github.com/docker/getting-started
 https://github.com/Lybecker/k8s-friendly-aspnetcore
 
 # Web技术 - ASP.NET   Web Technology - ASP.NET
+
+[简明 ASP.NET Core 手册（中文原版）](https://github.com/nbarbettini/little-aspnetcore-book)
+
 [简明 ASP.NET Core 手册（中文翻译版）](https://windsting.github.io/little-aspnetcore-book/book/)
 
 [杨旭老师的ASP.NET 3.1 Core入门](https://www.bilibili.com/video/av65313713/)
