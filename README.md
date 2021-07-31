@@ -4,6 +4,8 @@
 # C#基础 C# Basis
 [使用 C# 第一步](https://aka.ms/LearnC)
 
+[微软官方的.NET Hello World初级课程](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
+
 [Tutorials for getting started with .NET](https://docs.microsoft.com/en-us/dotnet/standard/get-started)
 
 [使用 ASP.NET Core 创建 Web API](https://aka.ms/docNETWeb)
