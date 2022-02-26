@@ -10,6 +10,8 @@
 
 [使用 ASP.NET Core 创建 Web API](https://aka.ms/docNETWeb)
 
+[The Productive C# Podcast on Apple Podcast](https://podcasts.apple.com/gb/podcast/the-productive-c-podcast/id1457750045)
+
 # ORM入门
 
 [Dotnet ORM入门教程](https://grauenwolf.github.io/DotNet-ORM-Cookbook)
