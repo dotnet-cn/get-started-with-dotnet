@@ -39,6 +39,8 @@ https://devopswithdocker.com/
 
 https://docker-curriculum.com/
 
+[Prometheus基础教程](https://github.com/yolossn/Prometheus-Basics)
+
 # Web技术 - ASP.NET   Web Technology - ASP.NET
 
 [简明 ASP.NET Core 手册（中文原版）](https://github.com/nbarbettini/little-aspnetcore-book)
