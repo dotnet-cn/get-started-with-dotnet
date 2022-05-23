@@ -1,3 +1,7 @@
+# 应届生专区
+
+[应届生阿秀的学习笔记](https://github.com/forthespada/InterviewGuide)
+
 # 网页开发基础
 [网页开发初学者教程-微软员工出品](https://github.com/microsoft/Web-Dev-For-Beginners)
 
