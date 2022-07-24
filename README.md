@@ -16,6 +16,8 @@
 
 [The Productive C# Podcast on Apple Podcast](https://podcasts.apple.com/gb/podcast/the-productive-c-podcast/id1457750045)
 
+[C#初级教程](https://github.com/zLulus/CSharpLearn)
+
 # ORM入门
 
 [Dotnet ORM入门教程](https://grauenwolf.github.io/DotNet-ORM-Cookbook)
