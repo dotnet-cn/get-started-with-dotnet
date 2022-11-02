@@ -69,6 +69,8 @@ https://github.com/Dotnet-Boxed/Templates
 
 https://github.com/asc-lab/dotnetcore-microservices-poc
 
+# 队列技术 Message Queue
+[免费RabbitMQ教程](https://training.cloudamqp.com/)
 
 ## 程序游乐场 Playground
 https://dotnetfiddle.net/srx9kM
