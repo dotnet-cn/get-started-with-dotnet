@@ -5,6 +5,9 @@
 # 网页开发基础
 [网页开发初学者教程-微软员工出品](https://github.com/microsoft/Web-Dev-For-Beginners)
 
+# Git
+[30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+
 # C#基础 C# Basis
 [使用 C# 第一步](https://aka.ms/LearnC)
 
