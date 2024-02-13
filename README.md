@@ -64,8 +64,8 @@ https://docker-curriculum.com/
 
 [微软官方提供的.NET架构书籍](https://github.com/dotnet-architecture/eBooks/tree/master/current/)
 
-## 小游戏 Little Games
-https://github.com/ZacharyPatten/dotnet-console-games
+## C#实现的各种Console小游戏 Games based on Console
+https://github.com/dotnet/dotnet-console-games
 
 ## 项目模板 Project Templates
 https://github.com/Dotnet-Boxed/Templates
