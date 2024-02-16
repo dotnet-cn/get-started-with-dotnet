@@ -21,6 +21,8 @@
 
 [C#初级教程](https://github.com/zLulus/CSharpLearn)
 
+[各种C#练习题](https://exercism.org/tracks/csharp/exercises)
+
 # ORM入门
 
 [Dotnet ORM入门教程](https://grauenwolf.github.io/DotNet-ORM-Cookbook)
